@@ -11,7 +11,7 @@ I'm also a highly motivated and creative individual who is always looking for ne
 - WordPress
 - HTML, PHP, and CSS
 
-### Check Out:
+### Check Out
 - My [professional graphic design portfolio](https://www.haleystelly.com) site
 - My [personal website](https://www.stel.ly), including links to my current web projects and social media accounts
 - My [LinkedIn profile](https://www.linkedin.com/in/chrisstelly/), if you'd like to connect professionally
