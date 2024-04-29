@@ -7,7 +7,6 @@ I'm also a highly motivated and creative individual who is always looking for ne
 ### Experience
 - Project management
 - Adobe Creative Cloud (including Photoshop, Illustrator, InDesign, Premiere, and After Effects)
-- Apple Final Cut Pro
 - WordPress
 - HTML, PHP, and CSS
 
