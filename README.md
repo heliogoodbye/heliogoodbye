@@ -1,8 +1,8 @@
 # Oh, hello! 👋
 
-I'm **Stelly**, a Nashville-based graphic designer with **over 15 years** of self-taught WordPress development experience. With a passion for both design and roller derby, I have a deep understanding of the unique needs of sports teams and leagues. I am skilled in creating logos, illustrations, websites, and marketing materials that are both visually appealing and effective in communicating an organization's message. I'm also a highly motivated and creative individual who is always looking for new ways to push the boundaries of graphic design. 
+I’m **Stelly**, a creative and passionate Nashville-based graphic designer with **15 years** of self-taught experience in WordPress development. I have a strong understanding of the WordPress platform and am skilled in creating custom themes, plugins, and widgets. I also create engaging and user-friendly website designs. I have a keen eye for detail and am always up-to-date on the latest design trends. I am passionate about helping my clients create beautiful and functional websites that meet their specific needs.
 
-I'm currently available for freelance projects on a limited basis.
+I’m currently available for freelance projects on a limited basis.
 
 ### Experience
 - Project management
